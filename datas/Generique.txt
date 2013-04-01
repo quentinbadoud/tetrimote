@@ -1,0 +1,147 @@
+Tetris-like
+Version : 3.0 Beta
+07/10/07
+  
+Idée originale : Alexei Pajitnov
+ 
+ 
+ 
+*** Equipe ***
+ 
+Concepteur : Jonathan Guéhenneux
+Developpeur : Jonathan Guéhenneux
+Concepteur graphisme : Jonathan Guéhenneux
+Debogage et test : Jonathan Guéhenneux
+ 
+ 
+ 
+
+*** Beta-testeurs ***
+ 
+Pierrot
+ 
+Dj@l33l
+ 
+Tarnefys
+ 
+Jérémie
+ 
+Alucard
+ 
+ 
+avis aux amateurs...
+ 
+ 
+ 
+*** Crédits ***
+ 
+Kalinka Tetris Arcade
+(c) Atari Games
+ 
+Tetris Original
+(c) Adam Dawes
+ 
+Super Bomberman : level theme
+(c) Nintendo 1993
+Jarel Jones
+ 
+Super Mario World 2 :
+Yoshi's Island
+ 
+1492 : Cristophe Colomb
+ 
+ 
+ 
+*** Remerciements ***
+ 
+Pour ses conseils en graphisme :
+Laurent Chesnel
+ 
+ 
+Pour ses indications en matière de musique :
+David Pierson
+ 
+ 
+Pour les amis qui m'ont supporté
+pendant la phase de développement
+ 
+ 
+Pour avoir géré ma paperasse :
+mon frère (Sylvain Guéhenneux)
+ 
+ 
+Pour leurs réponses à mes
+nombreuses questions :
+ 
+ 
+developpez.com
+ 
+presence-pc.com
+ 
+developpez.net
+ 
+javafr.com
+ 
+google.com/codesearch
+ 
+ 
+ 
+*** Dédicaces ***
+ 
+JoJoLeMaRiOle : "Coucou à tous ceux
+du s16 fr de Travian et specialement
+a la LM"
+ 
+ 
+Sylvain : "dédicace à la section L2
+bio-info de l'ULP"
+ 
+ 
+Tom : "Allez l'OL et l'OM en L2!"
+ 
+ 
+ 
+ 
+...
+ 
+ 
+ 
+aucun animal n'a ete maltraite
+pour faire ce jeu
+ 
+ 
+ 
+...
+ 
+ 
+ 
+*** Update logs ***
+ 
+ 
+v3.1 :
+ 
+Ajout du delai avant repetition
+
+ 
+ 
+V3.0 Beta :
+ 
+Gestion plus propre des fichiers midi
+ 
+Prise en compte des évènements dans une file d'attente
+ 
+Restructuration de l'ensemble du code
+ 
+Changements mineurs dans l'interface
+ 
+***
+ 
+Penser a :
+ 
+Ameliorer encore la qualite du code
+Commenter
+Enrichir l'interface
+Créer des parties en réseau
+ 
+merci enfin à vous pour m'avoir lu
+jusqu'au bout
