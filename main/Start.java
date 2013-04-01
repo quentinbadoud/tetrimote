@@ -34,7 +34,9 @@ public class Start extends JApplet {
 	private static ActionManager actionManager;
 
 	private static Timer rigther, lefter, downer;
-
+        private static Timer test;
+        
+        
 	public static void main(String[] args) {
 		startIn(new TetrisFrame());
 	}
